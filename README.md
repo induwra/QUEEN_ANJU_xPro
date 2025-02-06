@@ -6,7 +6,7 @@
  
 ---
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;QUEEN+ANJU+XPRO;Thanks+for+visiting!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF1043&lines=Welcome+to+my+Repository!;INDUWARA-MD;Thanks+for+visiting!"/>
 </a>
 
 ---
