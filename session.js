@@ -19,14 +19,14 @@
 //  * @project_name : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ
 //  * @version      : 4.0
 //  * @author       : induwara tech
-//  * @youtube      : https://www.youtube.com/@gamingrash2006
+//  * @youtube      : https://www.youtube.com/@Induwara-Tech
 //  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by induwara tech.
 //*
 //*
 //Base by Janith Rashmika
 //GitHub: @Mrrashmika
 //WhatsApp: +94717775628
-//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
+//Want more free bot scripts? Subscribe to my YouTube channel: https://www.youtube.com/@Induwara-Tech
 //   * Created By GitHub: induwara 
 //   * Credit To induwara tech
 //   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
